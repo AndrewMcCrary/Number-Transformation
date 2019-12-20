@@ -14,6 +14,7 @@ namespace Number_Transformation
             {
                 Transformation.Transform(102438, 3);
                 Console.ReadKey();
+                
             }
         }
     }
