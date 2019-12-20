@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number Transformation", "Number Transformation\Number Transformation.csproj", "{94F75A36-4686-44D9-B823-38CA66474DC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94F75A36-4686-44D9-B823-38CA66474DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94F75A36-4686-44D9-B823-38CA66474DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94F75A36-4686-44D9-B823-38CA66474DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94F75A36-4686-44D9-B823-38CA66474DC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DEFA020-0F47-413E-B1FE-BD60E3C9A745}
+	EndGlobalSection
+EndGlobal
